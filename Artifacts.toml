@@ -1,0 +1,94 @@
+[[PtrHash]]
+arch = "aarch64"
+git-tree-sha1 = "6f793540137cb665ec75165691f7d78e10dc20a2"
+os = "macos"
+
+    [[PtrHash.download]]
+    sha256 = "7fac6b66e5f9bce8b19378d8ce8ae603e97234ebe4917461171685b02c670121"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.aarch64-apple-darwin.tar.gz"
+[[PtrHash]]
+arch = "aarch64"
+git-tree-sha1 = "bfbbe5f37c7949910727e707cb22ab94baee701d"
+libc = "glibc"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "a526a35371e868dff4c9412919fc5370d99c39ab82a250b8d9d1cb075e07c29b"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.aarch64-linux-gnu.tar.gz"
+[[PtrHash]]
+arch = "aarch64"
+git-tree-sha1 = "fd330ffe4dd380368cee5c933e4f2dab87389292"
+libc = "musl"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "d062414efde05d7ea6af72caa62b864e2392127a05fd2300aa91af4d1a51833f"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.aarch64-linux-musl.tar.gz"
+[[PtrHash]]
+arch = "aarch64"
+git-tree-sha1 = "d4cc84c11ca5392f0c4b6b59a36c4c245131e2de"
+os = "freebsd"
+
+    [[PtrHash.download]]
+    sha256 = "d52991c49eb389b85b0bb7ac3f77373762e743a9e12d9a2d5b42fe81d95a3995"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.aarch64-unknown-freebsd.tar.gz"
+[[PtrHash]]
+arch = "powerpc64le"
+git-tree-sha1 = "78dd84a18477ba7deba544cc4ed6a133073119d0"
+libc = "glibc"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "553117e4184d1fbabd4c051f152a2792b91bd0bb1ad0b942863c8ba3cb390641"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.powerpc64le-linux-gnu.tar.gz"
+[[PtrHash]]
+arch = "riscv64"
+git-tree-sha1 = "fd775041a2948ddd3fed1901ae36dbdc3870938e"
+libc = "glibc"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "30a9a31a447d989d968ca4535e1e9c1db795f044ab7536f9c47fb7059766521e"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.riscv64-linux-gnu.tar.gz"
+[[PtrHash]]
+arch = "x86_64"
+git-tree-sha1 = "29f5b7ab1511798e8d037787dcbe388d68a516c0"
+os = "macos"
+
+    [[PtrHash.download]]
+    sha256 = "3ee9861fad902a67829a0be899987bf420e5563731a0b5e875a60c0d1993e7fd"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.x86_64-apple-darwin.tar.gz"
+[[PtrHash]]
+arch = "x86_64"
+git-tree-sha1 = "38a0cb8a3a90bc5e6e85212c539249c844926594"
+libc = "glibc"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "f553a71d7f50179293073b46eed4eae4a6599f4dee6292a559b21b470e5ea8fc"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.x86_64-linux-gnu.tar.gz"
+[[PtrHash]]
+arch = "x86_64"
+git-tree-sha1 = "636b3f555f4b521afa0976c2e7609484c426c2e7"
+libc = "musl"
+os = "linux"
+
+    [[PtrHash.download]]
+    sha256 = "9617a0f82e2a85f27c0be9b42e404f0a628dd743d46789a9fd35faf887afc943"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.x86_64-linux-musl.tar.gz"
+[[PtrHash]]
+arch = "x86_64"
+git-tree-sha1 = "1fe802d3df76d3be5ad8403be6f83d041deac123"
+os = "freebsd"
+
+    [[PtrHash.download]]
+    sha256 = "de93e687646620939c74277add2e428fcb2966d9a02965888cb0c946cb00081c"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.x86_64-unknown-freebsd.tar.gz"
+[[PtrHash]]
+arch = "x86_64"
+git-tree-sha1 = "03a1bb02112d8c1a6beed8b0a74ca49ce7feb00b"
+os = "windows"
+
+    [[PtrHash.download]]
+    sha256 = "1d1cc2b7dc4435207947fc34bda321ec040520d17787844695a470129f320106"
+    url = "https://github.com/JuliaBinaryWrappers/PtrHash_jll.jl/releases/download/PtrHash-v2.1.2+0/PtrHash.v2.1.2.x86_64-w64-mingw32.tar.gz"

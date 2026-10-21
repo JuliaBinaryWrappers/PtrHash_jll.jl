@@ -1,0 +1,14 @@
+version = "2.1.2+0"
+name = "PtrHash_jll"
+uuid = "71396ea4-7dad-5e7b-b167-5d274f6be014"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.6"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"
